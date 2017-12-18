@@ -19,7 +19,7 @@ namespace Class01PrepExercise01
             Console.Write("What is your name? ");
             string username = Console.ReadLine();
             Console.WriteLine("Hello, " + username + "!");
-            Console.WriteLine("\nPress any key to continue");
+            Console.WriteLine("\nPress <Enter> to continue");
             Console.ReadLine();
         }
     }
