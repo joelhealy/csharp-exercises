@@ -46,6 +46,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class02PrepExercise04", "Cl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class02PrepExercise05", "Class02\Class02PrepExercise05\Class02PrepExercise05.csproj", "{3F8EAEC0-7156-416E-B493-B8D89028F63A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class02StudioCountingCharacters", "Class02\Class02StudioCountingCharacters\Class02StudioCountingCharacters.csproj", "{B7F8395A-40F1-48E0-9280-65C6FA47BB72}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -140,6 +142,10 @@ Global
 		{3F8EAEC0-7156-416E-B493-B8D89028F63A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3F8EAEC0-7156-416E-B493-B8D89028F63A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3F8EAEC0-7156-416E-B493-B8D89028F63A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7F8395A-40F1-48E0-9280-65C6FA47BB72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7F8395A-40F1-48E0-9280-65C6FA47BB72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7F8395A-40F1-48E0-9280-65C6FA47BB72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7F8395A-40F1-48E0-9280-65C6FA47BB72}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
